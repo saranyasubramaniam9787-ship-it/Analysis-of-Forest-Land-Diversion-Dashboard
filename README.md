@@ -1,4 +1,4 @@
-Forest Land Diversion Analysis Dashboard
+# 🌳 Forest Land Diversion Analysis Dashboard
 
 *A data-driven analysis of forest land diversion trends across Indian states to understand environmental impact, key drivers, and policy implications.*
 
@@ -6,23 +6,24 @@ Forest Land Diversion Analysis Dashboard
 
 ## 📖 Table of Contents
 
-- [Project Overview](#-project-overview)
-- [Data Source](#-data-source)
-- [Tools & Technologies](#-tools--technologies)
-- [Data Cleaning & Preparation](#-data-cleaning--preparation)
-- [Exploratory Data Analysis (EDA)](#-exploratory-data-analysis-eda)
-- [Key Insights](#-key-insights)
-- [Recommendations](#-recommendations)
-- [How to Use](#-how-to-use)
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools & Technologies](#tools--technologies)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [How to Use](#how-to-use)
 - [Conclusion](#conclusion)
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes forest land diversion across Indian states to understand environmental impact and development patterns.
 
 The analysis helps in identifying:
+
 - Total forest land diverted
 - States with highest impact
 - Type of forests affected
@@ -33,7 +34,7 @@ The goal is to support **data-driven environmental decision-making**.
 
 ---
 
-## 🗂️ Data Source
+## Data Source
 
 - Dataset contains **490 forest diversion projects**
 - Covers **23 Indian states**
@@ -47,7 +48,7 @@ The goal is to support **data-driven environmental decision-making**.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib)
 - Jupyter Notebook
@@ -56,7 +57,7 @@ The goal is to support **data-driven environmental decision-making**.
 
 ---
 
-## 🧹 Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 - Handled missing values
 - Removed duplicates
@@ -66,15 +67,17 @@ The goal is to support **data-driven environmental decision-making**.
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Key questions explored:
+
 - Which states have highest forest diversion?
 - Which forest types are most affected?
 - What are the major drivers of diversion?
 - How has diversion changed over time?
 
 Visualizations used:
+
 - State-wise comparison
 - Year-wise trend analysis
 - Forest type distribution
@@ -82,7 +85,7 @@ Visualizations used:
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Total **490 projects** across **23 states**
 - Total **3,573.62 hectares** of forest land diverted
@@ -98,7 +101,7 @@ Visualizations used:
 
 ---
 
-## 🚀 Recommendations
+## Recommendations
 
 - Strengthen compensatory afforestation (1:1 or 1:2 ratio)
 - Implement state-wise forest diversion limits
@@ -111,7 +114,7 @@ Visualizations used:
 
 ---
 
-## ⚙️ How to Use
+## How to Use
 
 ```bash
 pip install pandas numpy matplotlib
@@ -121,11 +124,3 @@ df = pd.read_csv("forest_diversion_data.csv")
 df.head()
 
 ---
-
-## Conclusion
-- Forest land diversion has reduced compared to peak years but continues steadily.
-- The impact is shifting from many small projects to fewer large-scale high-impact projects.
-
-- Stronger environmental policies and data-driven monitoring are essential to balance:
-  - Development needs
-  - Environmental sustainability
