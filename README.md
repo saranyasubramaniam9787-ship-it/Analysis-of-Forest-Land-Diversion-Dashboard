@@ -119,3 +119,15 @@ jupyter notebook
 import pandas as pd
 df = pd.read_csv("forest_diversion_data.csv")
 df.head()
+
+---
+
+📌 Conclusion
+
+- Forest land diversion has reduced compared to peak years but continues steadily.
+The impact is shifting from many small projects to fewer large-scale high-impact projects.
+
+- Stronger environmental policies and data-driven monitoring are essential to balance:
+
+- Development needs
+- Environmental sustainability
