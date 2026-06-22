@@ -1,4 +1,4 @@
-# 🌳 Forest Land Diversion Analysis Dashboard
+## Forest Land Diversion Analysis Dashboard
 
 *A data-driven analysis of forest land diversion trends across Indian states to understand environmental impact, key drivers, and policy implications.*
 
