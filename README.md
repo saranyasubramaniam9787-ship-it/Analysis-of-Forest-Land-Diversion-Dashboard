@@ -122,7 +122,7 @@ df.head()
 
 ---
 
-📌 Conclusion
+## 📌 Conclusion
 
 - Forest land diversion has reduced compared to peak years but continues steadily.
 The impact is shifting from many small projects to fewer large-scale high-impact projects.
@@ -131,3 +131,5 @@ The impact is shifting from many small projects to fewer large-scale high-impact
 
 - Development needs
 - Environmental sustainability
+
+---
