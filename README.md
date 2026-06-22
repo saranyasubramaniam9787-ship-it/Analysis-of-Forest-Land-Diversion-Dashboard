@@ -115,3 +115,7 @@ Visualizations used:
 
 ```bash
 pip install pandas numpy matplotlib
+jupyter notebook
+import pandas as pd
+df = pd.read_csv("forest_diversion_data.csv")
+df.head()
